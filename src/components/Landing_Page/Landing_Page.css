@@ -39,6 +39,7 @@
 
 .details-title-design{
     width: 85%;
+    cursor: pointer;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -84,10 +85,15 @@
     overflow: hidden;
 }
 
+.base-div{
+    cursor: pointer;
+}
+
 .donation-button{
     height: 62.5%;
     width: 50%;
-    margin-bottom: 7.5%;;
+    margin-bottom: 7.5%;
+    cursor: pointer;
     display: flex;
     justify-content: center;
     align-items: center;

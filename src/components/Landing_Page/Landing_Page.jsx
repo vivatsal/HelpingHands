@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import "./Landing_Page.css";
 import {ngo} from '../ngo-data';
-import { Link } from "react-router-dom";
 import ArrowForwardIosIcon from '@mui/icons-material/ArrowForwardIos';
 import ArrowBackIosNewIcon from '@mui/icons-material/ArrowBackIosNew';
 
@@ -41,14 +40,15 @@ function LandingPage() {
                     <div className="details-div">
                         <div className="details-img"><img className="image" src={process.env.PUBLIC_URL + ngo[pointer].imageUrl} alt="img"/></div>
                         <div className="details-title">
-                            <div className="details-title-design"><a className="details-title-link" href = {ngo[pointer].website} target="_blank">
+                            <div className="details-title-design" onClick={()=>{window.location.href=ngo[pointer].website}}>
                             <h3 className="details-title-head" style={{color: "white"}}>{ngo[pointer].name}</h3>
-                            </a></div>
+                            </div>
                         </div>
                         <div className="details-info"><h3 className="details">{ngo[pointer].details}</h3></div> 
                         <div className="details-donation-button">
-                            <div className="donation-button">
-                                <Link className="donation-button-link" to = {ngo[pointer].donationsLink}>Donate</Link></div>
+                            <div className="donation-button" onClick={()=>{window.location.href=ngo[pointer].donationsLink}}>
+                                <div className="base-div">Donate</div>
+                            </div>
                         </div> 
                     </div>
                     <div className="images-div">
