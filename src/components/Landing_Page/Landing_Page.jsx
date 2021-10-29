@@ -40,15 +40,14 @@ function LandingPage() {
                     <div className="details-div">
                         <div className="details-img"><img className="image" src={process.env.PUBLIC_URL + ngo[pointer].imageUrl} alt="img"/></div>
                         <div className="details-title">
-                            <div className="details-title-design" onClick={()=>{window.location.href=ngo[pointer].website}}>
+                            <div className="details-title-design"><a href={ngo[pointer].website} className="details-title-link" target="_blank, noopener, norefferer">
                             <h3 className="details-title-head" style={{color: "white"}}>{ngo[pointer].name}</h3>
-                            </div>
+                            </a></div>
                         </div>
                         <div className="details-info"><h3 className="details">{ngo[pointer].details}</h3></div> 
                         <div className="details-donation-button">
-                            <div className="donation-button" onClick={()=>{window.location.href=ngo[pointer].donationsLink}}>
-                                <div className="base-div">Donate</div>
-                            </div>
+                            <div className="donation-button">
+                                <a href={ngo[pointer].donationsLink} className="donation-button-link" target="_blank, noopener, norefferer">Donate</a></div>
                         </div> 
                     </div>
                     <div className="images-div">
