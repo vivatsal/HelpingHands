@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/HelpingHands/static/css/main.eb6876d2.chunk.css",
-    "main.js": "/HelpingHands/static/js/main.5704739f.chunk.js",
-    "main.js.map": "/HelpingHands/static/js/main.5704739f.chunk.js.map",
+    "main.css": "/HelpingHands/static/css/main.51282514.chunk.css",
+    "main.js": "/HelpingHands/static/js/main.ab273c00.chunk.js",
+    "main.js.map": "/HelpingHands/static/js/main.ab273c00.chunk.js.map",
     "runtime-main.js": "/HelpingHands/static/js/runtime-main.c3613eca.js",
     "runtime-main.js.map": "/HelpingHands/static/js/runtime-main.c3613eca.js.map",
-    "static/js/2.3b2e2420.chunk.js": "/HelpingHands/static/js/2.3b2e2420.chunk.js",
-    "static/js/2.3b2e2420.chunk.js.map": "/HelpingHands/static/js/2.3b2e2420.chunk.js.map",
+    "static/js/2.2a396c8a.chunk.js": "/HelpingHands/static/js/2.2a396c8a.chunk.js",
+    "static/js/2.2a396c8a.chunk.js.map": "/HelpingHands/static/js/2.2a396c8a.chunk.js.map",
     "static/js/3.45efcbcd.chunk.js": "/HelpingHands/static/js/3.45efcbcd.chunk.js",
     "static/js/3.45efcbcd.chunk.js.map": "/HelpingHands/static/js/3.45efcbcd.chunk.js.map",
     "index.html": "/HelpingHands/index.html",
-    "static/css/main.eb6876d2.chunk.css.map": "/HelpingHands/static/css/main.eb6876d2.chunk.css.map",
-    "static/js/2.3b2e2420.chunk.js.LICENSE.txt": "/HelpingHands/static/js/2.3b2e2420.chunk.js.LICENSE.txt"
+    "static/css/main.51282514.chunk.css.map": "/HelpingHands/static/css/main.51282514.chunk.css.map",
+    "static/js/2.2a396c8a.chunk.js.LICENSE.txt": "/HelpingHands/static/js/2.2a396c8a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c3613eca.js",
-    "static/js/2.3b2e2420.chunk.js",
-    "static/css/main.eb6876d2.chunk.css",
-    "static/js/main.5704739f.chunk.js"
+    "static/js/2.2a396c8a.chunk.js",
+    "static/css/main.51282514.chunk.css",
+    "static/js/main.ab273c00.chunk.js"
   ]
 }
