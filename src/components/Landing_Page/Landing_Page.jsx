@@ -41,7 +41,7 @@ function LandingPage() {
                     <div className="details-div">
                         <div className="details-img"><img className="image" src={process.env.PUBLIC_URL + ngo[pointer].imageUrl} alt="img"/></div>
                         <div className="details-title">
-                            <div className="details-title-design"><Link className="details-title-link" to = {ngo[pointer].website}>
+                            <div className="details-title-design"><Link className="details-title-link" to = {{pathname: ngo[pointer].website}} target="_blank">
                             <h3 className="details-title-head" style={{color: "white"}}>{ngo[pointer].name}</h3>
                             </Link></div>
                         </div>
