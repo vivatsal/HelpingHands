@@ -29,9 +29,9 @@ export const ngo = [
 
                         imageUrl4: "/images/brac/brac4.jpg",
 
-                        website: "https://www.brac.net",
+                        website: "https://www.brac.net/",
 
-                        donationsLink: "https://brac.net/dakcheabardesh/en/"
+                        donationsLink: "https://www.brac.net/dakcheabardesh/en/"
 
                      },
 
@@ -64,9 +64,9 @@ export const ngo = [
 
                          imageUrl4: "/images/oxfam/oxfam4.jpg",
                         
-                         website: "https://www.oxfam.org",
+                         website: "https://www.oxfam.org/",
 
-                         donationsLink: "https://www.oxfam.org/en/donate/general"
+                         donationsLink: "https://www.oxfam.org/en/donate/general/"
 
                      },
 
@@ -94,7 +94,7 @@ export const ngo = [
 
                         imageUrl4: "/images/drc/drc1.jpg",                        
 
-                        website: "https://www.drc.ngo",
+                        website: "https://www.drc.ngo/",
 
                         donationsLink: "https://www.drc.ngo/take-action/individual/donate-now/"
                         
@@ -127,7 +127,7 @@ export const ngo = [
 
                         website: "https://www.mercycorps.org/",
 
-                        donationsLink: "https://www.mercycorps.org/donate"
+                        donationsLink: "https://www.mercycorps.org/donate/"
                         
                     },
 
@@ -155,9 +155,9 @@ export const ngo = [
 
                         imageUrl4: "/images/apopo/apopo4.jpg",
 
-                        website: "https://www.apopo.org/en", 
+                        website: "https://www.apopo.org/en/", 
 
-                        donationsLink: "https://www.apopo.org/en/support-us"
+                        donationsLink: "https://www.apopo.org/en/support-us/"
                         
                     },
 
@@ -200,7 +200,7 @@ export const ngo = [
 
                         website: "https://www.msf.org/",
 
-                        donationsLink: "https://www.msf.org/donate"
+                        donationsLink: "https://www.msf.org/donate/"
                         
                     },
 
