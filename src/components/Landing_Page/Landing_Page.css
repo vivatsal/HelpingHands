@@ -1,0 +1,142 @@
+.whole-page{
+    display: flex;
+    width: 100%;
+    height: 110vh;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.title{
+    color: black;
+    text-decoration: none;
+    margin-bottom: 0;
+}
+
+.details-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.details-div{
+    font-size: 12.5px;
+    width: 22.5%;
+    margin-left: 16px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(35, 190, 177, 0.897);
+    overflow: hidden;
+}
+
+.details-title-link{
+    text-decoration: none;
+}
+
+.details-title-head{
+    color: black;
+    font-size: 20px;
+}
+
+.details-title-design{
+    width: 85%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+.details-info{
+    display: flex;
+    height: 50%;
+    margin-left: 20px;
+    margin-right: 20px;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.details-img{
+    width: 100%;
+    height: 25%;
+    overflow: hidden;
+}
+
+.details-title{
+    margin-top: 10%;
+    
+}
+
+.image{
+    height: 100%;
+    width: 100%;
+}
+
+.details-donation-button{
+    display: flex;
+    margin-top: 2%;
+    width: 100%;
+    height: 12.65%;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    overflow: hidden;
+}
+
+.donation-button{
+    height: 62.5%;
+    width: 50%;
+    margin-bottom: 7.5%;;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+}
+
+.donation-button-link{
+    text-decoration: none;
+    color: white;
+}
+
+.images-div{
+    width: 75%;
+}
+
+.images{
+    margin-right: 10px;
+    width: 100%;
+    height: 51%;
+    display: flex;
+}
+
+.images-list{
+    margin-left: 16px;
+    width: 47.5%;
+    height: 95%;
+    border: 2px solid black;
+}
+
+.arrow-back{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 5%;
+    color: black;
+    background-color: black;
+}
+
+.arrow-next{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 5%;
+    background-color: black;
+}
+
+.arrow{
+    color: red;
+    transform: scale(1.75);
+}

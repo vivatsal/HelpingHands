@@ -1,0 +1,34 @@
+.division{
+    height: 86.1vh;
+    width: 100%;
+}
+
+.main-division{
+    height: 100%;
+    width: 100%;
+}
+
+.first-div{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.first-div-content{
+    height: 60%;
+    width: 60%;
+    background-color: rgba(147, 221, 217, 0.301);
+    padding: 5%;
+    color: white;
+    overflow: hidden;
+}
+
+.first-div-title{
+    font-size: 27.5px;
+}
+
+.first-div-cont{
+    font-size: 19.5px;
+}

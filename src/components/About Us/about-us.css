@@ -1,0 +1,52 @@
+.page{
+    height: 86.1vh;
+    width: 100%;
+    overflow: hidden;
+}
+
+.div-bgd{
+    height: 100%;
+    width: 100%;
+    opacity: 0.8;
+}  
+
+.hunger-div{
+    position: absolute;
+    left: 0;
+    color: white;
+    width: 30%;
+    background-color: rgba(41, 172, 155, 0.829);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: absolute;
+    height: 30.5%;
+    overflow: hidden;
+    padding-top: 1%;
+}
+
+.mission{
+    width: 28%;
+    background-color: rgba(41, 172, 155, 0.829);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    height: 30.5%;
+    overflow: hidden;
+    padding-top: 1%;
+}
+
+.mission-tale{
+    color: white;
+    font-size: 25px;
+    margin: 0 10%
+}
+
+.mission-content{
+    margin: 0 10%;
+    color: white;
+    font-size: 14.5px;
+}
