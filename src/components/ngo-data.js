@@ -29,11 +29,9 @@ export const ngo = [
 
                         imageUrl4: "/images/brac/brac4.jpg",
 
-                        website: "//www.brac.net",
+                        website: "https://www.brac.net",
 
-                        donationsLink: "//brac.net/dakcheabardesh/en/",
-
-                        source: "Source: Wikipedia"
+                        donationsLink: "https://brac.net/dakcheabardesh/en/"
 
                      },
 
@@ -66,11 +64,9 @@ export const ngo = [
 
                          imageUrl4: "/images/oxfam/oxfam4.jpg",
                         
-                         website: "//www.oxfam.org",
+                         website: "https://www.oxfam.org",
 
-                         donationsLink: "//www.oxfam.org/en/donate/general",
-
-                         source: "Source: Wikipedia"
+                         donationsLink: "https://www.oxfam.org/en/donate/general"
 
                      },
 
@@ -98,11 +94,9 @@ export const ngo = [
 
                         imageUrl4: "/images/drc/drc1.jpg",                        
 
-                        website: "//www.drc.ngo",
+                        website: "https://www.drc.ngo",
 
-                        donationsLink: "//www.drc.ngo/take-action/individual/donate-now/",
-
-                        source: "Source: Wikipedia"
+                        donationsLink: "https://www.drc.ngo/take-action/individual/donate-now/"
                         
                     },
 
@@ -131,11 +125,9 @@ export const ngo = [
 
                         imageUrl4: "/images/mcorps/mcorps4.jpg",                      
 
-                        website: "//www.mercycorps.org/",
+                        website: "https://www.mercycorps.org/",
 
-                        donationsLink: "//www.mercycorps.org/donate",
-
-                        source: "Source: Wikipedia"
+                        donationsLink: "https://www.mercycorps.org/donate"
                         
                     },
 
@@ -163,11 +155,9 @@ export const ngo = [
 
                         imageUrl4: "/images/apopo/apopo4.jpg",
 
-                        website: "//www.apopo.org/en", 
+                        website: "https://www.apopo.org/en", 
 
-                        donationsLink: "//www.apopo.org/en/support-us",
-
-                        source: "Source: Wikipedia"
+                        donationsLink: "https://www.apopo.org/en/support-us"
                         
                     },
 
@@ -208,13 +198,9 @@ export const ngo = [
 
                         imageUrl4: "/images/msf/msf4.jpg",                       
 
-                        website: "//www.msf.org/",
+                        website: "https://www.msf.org/",
 
-                        donationsLink: "//www.msf.org/donate",
-
-                        objectives: "Medical aid, Statistics, water purification and nutrition",
-
-                        source: "Source: Wikipedia"
+                        donationsLink: "https://www.msf.org/donate"
                         
                     },
 
@@ -241,13 +227,9 @@ export const ngo = [
 
                         imageUrl4: "/images/cvg/cvg4.jpg",                     
 
-                        website: "//cvg.org/",
+                        website: "https://cvg.org/",
 
-                        objectives: "",
-
-                        donationsLink: "//cvg.org/donate/",
-
-                        source: "Source: Wikipedia"
+                        donationsLink: "https://cvg.org/donate/"
                         
                     }
 
