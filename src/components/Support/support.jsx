@@ -41,7 +41,7 @@ function Support(){
 
                            <h2 className="heading"> If You Are An Organisation </h2>
 
-                           <form className="forms" action="mailto:vatsalviven@email.com" encType="text/plain" method="POST">
+                           <form className="forms" action="mailto:vatsalviven@email.com?" encType="text/plain" method="POST">
 
                                <label className="labels">Organisation  Name: </label>
                                <input className="inputs" type="text" id="first-name" name="first name" required />
